@@ -1,0 +1,9 @@
+[submodule "pqdtw/lib/dtaidistance"]
+	path = pqdtw/lib/dtaidistance
+	url = https://github.com/wannesm/dtaidistance.git
+[submodule "pqdtw/lib/pocketfft"]
+	path = pqdtw/lib/pocketfft
+	url = https://gitlab.mpcdf.mpg.de/mtr/pocketfft.git
+[submodule "pqdtw/lib/wavelib"]
+	path = pqdtw/lib/wavelib
+	url = https://github.com/rafat/wavelib.git
